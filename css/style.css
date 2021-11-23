@@ -1,4 +1,53 @@
-img{
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Quicksand&display=swap');img{
     height: 500px;
     width: 500px;
+}
+h1 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 62px;
+    font-weight:300;
+    display: flex;
+    justify-content: center;
+}
+h2, h3 {
+    font-family: 'Quicksand', sans-serif;
+}
+.mainMenu {
+    
+    height: 200px;
+    border: 5px solid whitesmoke;
+    padding: 25px  25px 25px 25px;
+    margin: 25px;
+    background-color: cyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    font-size: 20px;
+    font-weight:300;
+    color: black;
+}
+img{
+    height: 350px;
+    width: 350px;
+}
+html,
+body {
+    height: 100%;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.back{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 10px;
+    padding-bottom: 10px;
 }
