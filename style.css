@@ -9,7 +9,7 @@
   
   .bg {
     /* The image used */
-    background-image: url("/img/recipe-background.jpg");
+    background-image: url("img/recipe-background.jpg");
   
     /* Full height */
     height: auto; 
