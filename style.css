@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Quicksand&display=swap');
 
-body, html {
+* {
     height: 100%;
     margin: 0;
+    padding: 0;
   }
   
   .bg {
